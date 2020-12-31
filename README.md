@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnybigoo&count_private=true&theme=graywhite&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnybigoo&count_private=true&theme=default_repocard&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&langs_count=5&theme=graywhite)]()
 
