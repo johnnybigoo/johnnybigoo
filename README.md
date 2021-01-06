@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnybigoo&count_private=true&theme=default_repocard&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&langs_count=5&theme=default_repocard)]()
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&theme=default">
+</p>
 
 <p align="center">
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=dracula" />
@@ -30,5 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&langs_count=5&theme=default_repocard)]()
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnybigoo&count_private=true&theme=default_repocard&showicons=true)]()
 -->
 
