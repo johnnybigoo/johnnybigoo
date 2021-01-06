@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=dracula" />
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=default" />
 </p>
 
 <p align="center">
