@@ -4,6 +4,19 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&langs_count=5&theme=default_repocard)]()
 
+<p align="center">
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+ </a>
+  <a href="https://linkedin.com/in/jonestavares" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+  </a>
+ </p>
+  
+  
+
 <!--
 **johnnybigoo/johnnybigoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
