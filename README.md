@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&theme=default">
+ </p>
+
+ <p align="center">
+   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=default" />
+ </p>
+
+ <p align="center">
+ </a>
+  <a href="https://linkedin.com/in/jonestavares" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+  </a>
+ </p>
+
+<!--
 <center>
   <table>
     <tr>
@@ -13,6 +29,7 @@
   <a href="https://linkedin.com/in/jonestavares" target="_blank">[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg &style=for-the-badge&logo=linkedin&logoColor=white" />]
   </a>
 </p>
+-->
   
   
 
