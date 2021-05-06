@@ -5,6 +5,8 @@
     <tr>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&theme=default">
+      </td>
+      <td>
         <img align="center" height="195" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=default" />
       </td>
     </tr>
