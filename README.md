@@ -11,8 +11,7 @@
 
 <p align="center">
  </a>
-  <a href="https://linkedin.com/in/jonestavares" target="_blank">
-    [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+  <a href="https://linkedin.com/in/jonestavares" target="_blank">[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
   </a>
  </p>
   
