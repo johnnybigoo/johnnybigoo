@@ -27,7 +27,7 @@
 <center>
   <table>
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&theme=default" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=default" /></td>
       <td><img align="center" height="190" src="https://github-readmestats.anuraghazra1.vercel.app/api/toplangs/username=johnnybigoo&layout=compact&theme=default" /></td>
    </tr>   
   </table>
