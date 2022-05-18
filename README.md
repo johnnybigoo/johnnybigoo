@@ -7,7 +7,7 @@
         <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&theme=nord">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
       </td>
     </tr>
   </table>
