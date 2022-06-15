@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td>
-       <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord&langs_count=10" />     
+       <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord&langs_count=10" />     
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
@@ -17,7 +17,7 @@
   
  <p align="center">
   <a href="https://linkedin.com/in/jonestavares" target="_blank">
-    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" width="100" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  </p>
 
