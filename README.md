@@ -2,18 +2,14 @@
 
 [![Github](https://img.shields.io/github/followers/johnnybigoo?label=Follow&style=social)](https://github.com/johnnybigoo)
 
-<center>
-  <table>
-    <tr>
-      <td>
-        <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord&langs_count=10">
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
-      </td>
-    </tr>
-  </table>
-</center>
+<div align="center"> 
+  <a>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord&langs_count=10">
+  </a>
+  <a>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
+  </a>
+</div>
   
  <p align="center">
   <a href="https://linkedin.com/in/jonestavares" target="_blank">
@@ -26,6 +22,29 @@
  
  
 <!--
+
+
+<center>
+  <table>
+    <tr>
+      <td>
+        <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord&langs_count=10">
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
+      </td>
+    </tr>
+  </table>
+</center>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/jonestavares" target="_blank">
+    <img align="center" width="100" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ </p>
+
+
 <center>
   <table>
     <tr>
@@ -43,6 +62,7 @@
 </p>
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
+
 -->
   
 <!-- Light Mode -->
