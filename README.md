@@ -6,7 +6,9 @@
   <table>
     <tr>
       <td>
-        <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord" />
+        <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> 
+    <img height=200 src="https://github-readme-stats-git-master-rstaa-johnnybigoo.vercel.app/api/top-langs/ username=johnnybigoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-nord" alt="Jones Tavares' Language stats" />
+        </a>        
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
@@ -28,8 +30,16 @@
 <!--
 <center>
   <table>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> 
+    <img height=200 src="https://github-readme-stats-git-master-rstaa-johnnybigoo.vercel.app/api/top-langs/ username=johnnybigoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-nord" alt="Jones Tavares' Language stats" />
+</a>
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=default" /></td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=default" />
+      </td>
+
+      <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord" />
+
       <td><img align="center" height="190" src="https://github-readmestats.anuraghazra1.vercel.app/api/toplangs/username=johnnybigoo&layout=compact&theme=default" /></td>
    </tr>   
   </table>
