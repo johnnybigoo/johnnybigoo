@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td>
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=johnnybigoo&layout=compact&theme=nord" />
+       <img align="center" height="190" src="https://github-readmestats.anuraghazra1.vercel.app/api/toplangs/username=johnnybigoo&layout=compact&theme=nord" />
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
