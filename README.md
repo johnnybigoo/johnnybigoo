@@ -3,10 +3,10 @@
 [![Github](https://img.shields.io/github/followers/johnnybigoo?label=Follow&style=social)](https://github.com/johnnybigoo)
 
 <center>
-  <table width="50%" height="50%">
+  <table>
     <tr>
       <td>
-       <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/ username=johnnybigoo&layout=compact&theme=nord&langs_count=10" />
+       <img align="center" width="50%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/ username=johnnybigoo&layout=compact&theme=nord&langs_count=10" />
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
