@@ -19,8 +19,8 @@
   </a>
 </div>  
  
+ 
 <!--
-
 
 <center>
   <table>
@@ -42,7 +42,9 @@
   </a>
  </p>
 
+-->
 
+<!--
 <center>
   <table>
     <tr>
@@ -61,25 +63,54 @@
  </p>
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
-
--->
   
+-->
+
+
+<!--
+### Hey 👋, I'm Jones
+
+[![Github](https://img.shields.io/github/followers/johhnybigoo?label=Follow&style=social)](https://github.com/johhnybigoo)
+-->
+
 <!-- Light Mode -->
 <!--
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Rick Staa's Github stats" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Jones Tavares' Language stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=johhnybigoo&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Jones Tavares' Github stats" />
+  </a>
 </div>
+-->
 
-<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<!-- Dark Mode -->
+<!--
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=johhnybigoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Jones Tavares' Language stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=johhnybigoo&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Jones Tavares' Github stats" />
+  </a>
+</div>
+<br/> 
+-->
+
+<!-- Light Mode -->
+<!--
+<a href="https://www.linkedin.com/in/jonestavares#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 -->
-  
+
+<!-- Dark Mode -->
+<!--
+<a href="https://www.linkedin.com/in/jonestavares#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+-->
 
 <!--
 **johnnybigoo/johnnybigoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
