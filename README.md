@@ -4,7 +4,7 @@
 
 <div align="center"> 
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&theme=nord">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=450&theme=nord">
   </a>
   <a>
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&include_all_commits=true&card_width=450&theme=nord">
@@ -13,9 +13,11 @@
 
 <br/>
 
-<a align="center" href="https://www.linkedin.com/in/jonestavares#gh-light-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonestavares#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+  </a>
+</div>  
  
 <!--
 
