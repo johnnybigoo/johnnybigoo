@@ -6,9 +6,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> 
-    <img height=200 src="https://github-readme-stats-git-master-rstaa-johnnybigoo.vercel.app/api/top-langs/ username=johnnybigoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-nord" alt="Jones Tavares' Language stats" />
-        </a>        
+       <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nordlangs_count=10" />     
       </td>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
@@ -30,16 +28,10 @@
 <!--
 <center>
   <table>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> 
-    <img height=200 src="https://github-readme-stats-git-master-rstaa-johnnybigoo.vercel.app/api/top-langs/ username=johnnybigoo&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-nord" alt="Jones Tavares' Language stats" />
-</a>
     <tr>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=default" />
       </td>
-
-      <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord" />
-
       <td><img align="center" height="190" src="https://github-readmestats.anuraghazra1.vercel.app/api/toplangs/username=johnnybigoo&layout=compact&theme=default" /></td>
    </tr>   
   </table>
@@ -53,6 +45,17 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
 -->
   
+<!-- 
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+-->  
   
 
 <!--
