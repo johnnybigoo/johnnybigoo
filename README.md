@@ -4,22 +4,16 @@
 
 <div align="center"> 
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&theme=nord&langs_count=10">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&theme=nord">
   </a>
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&count_private=true&show_icons=true&theme=nord">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&include_all_commits=true&card_width=450&theme=nord">
   </a>
 </div>
   
- <p align="center">
-  <a href="https://linkedin.com/in/jonestavares" target="_blank">
-    <img align="center" width="100" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- </p>
-
-  
- 
- 
+<a href="https://www.linkedin.com/in/jonestavares#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
  
 <!--
 
@@ -57,9 +51,10 @@
 </center>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jonestavares" target="_blank">[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg &style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/jonestavares" target="_blank">
+    <img align="center" width="100" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+ </p>
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="otavioperkles" height="35" width="35" />
 
@@ -75,6 +70,10 @@
 <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Rick Staa's Github stats" />
 </a>
 </div>
+
+<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
 -->
   
 
