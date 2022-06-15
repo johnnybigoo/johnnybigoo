@@ -4,10 +4,10 @@
 
 <div align="center"> 
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=450&theme=nord">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=250&theme=nord">
   </a>
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&include_all_commits=true&card_width=250&theme=nord">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&include_all_commits=true&card_width=450&theme=nord">
   </a>
 </div>
 
