@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/johnnybigoo?label=Follow&style=social)](https://github.com/johnnybigoo)
+
 <center>
   <table>
     <tr>
