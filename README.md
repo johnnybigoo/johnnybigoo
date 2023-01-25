@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Github](https://img.shields.io/github/followers/johnnybigoo?label=Follow&style=social)](https://github.com/johnnybigoo)
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=johnnybigoo" alt="Visitors" >
 <div align="center"> 
   <a>
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=350&theme=nord">
