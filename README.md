@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-<p align="center" vertical-align="center">Main Tools</p>
+<p align="center" vertical-align="center">Tools & Technologies</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" width="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" width="75" />
