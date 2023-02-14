@@ -22,6 +22,7 @@
 
 
 
+
  
 <!--
 
@@ -132,5 +133,29 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&langs_count=5&theme=default_repocard)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnybigoo&count_private=true&theme=default_repocard&showicons=true)]()
+-->
+
+<!--
+
+<div style="display: inline_block">
+<br>
+  <samp>
+  <p align="left" vertical-align="center">
+  🔧 Main Tools
+  </p>
+  <br>
+  <p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="55" alt="visual studio code logo" title="Visual Studio Code" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="55" alt="figma logo" title="Figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="55" alt="canva logo" title="Canva" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="55" alt="trello logo" title="Trello" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="55" alt="jira logo" title="Jira" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="55" alt="filezilla logo" title="FileZilla" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" alt="git logo" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo" title="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30" width="55" alt="NPM - Node Package Managar" title="NPM" />
+  </p>
+</div>
+
 -->
 
