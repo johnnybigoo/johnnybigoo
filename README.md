@@ -21,6 +21,13 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,dart,flutter,materialui,py,django,postgres" />
+  </a>
+</p>
+
+<!--
 <div align="center">
 <p align="center" vertical-align="center">Tools & Technologies</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" width="75" />
@@ -32,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" width="75" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="75" />
 </div>  
- 
+--> 
 
 
 
