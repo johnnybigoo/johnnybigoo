@@ -4,10 +4,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=johnnybigoo" alt="Visitors" >
 <div align="center"> 
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=350&theme=nord">
+    <img height=200 src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=350&theme=nord">
   </a>
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&include_all_commits=true&card_width=400&theme=nord">
+    <img height=200 src="https://acedev003-readme-stats.vercel.app/api?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&include_all_commits=true&card_width=400&theme=nord">
   </a>
 </div>
 
@@ -40,7 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="75" />
 </div>  
 --> 
-
 
 
 
@@ -177,6 +176,8 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30" width="55" alt="NPM - Node Package Managar" title="NPM" />
   </p>
 </div>
+
+URL default = https://github-readme-stats.vercel.app
 
 -->
 
