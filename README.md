@@ -4,10 +4,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=johnnybigoo" alt="Visitors" >
 <div align="center"> 
   <a>
-    <img height=200 src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=350&theme=nord">
+    <img height=200 src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=johnnybigoo&layout=compact&langs_count=10&card_width=350&theme=default">
   </a>
   <a>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&&card_width=400&theme=nord">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/?username=johnnybigoo&show_icons=true&count_private=true&show_icons=true&line_height=28&card_width=400&theme=default">
   </a>
 </div>
 
